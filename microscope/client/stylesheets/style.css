@@ -35,7 +35,8 @@ display: block;
 margin: 7px 12px 0 0;
 float: left;
 }
-.post .post-content { float: left }
+.post .post-content { float: left; margin-left: 5px;
+ }
 .post .post-content h3 {
 margin: 0;
 line-height: 1.4;
