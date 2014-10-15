@@ -35,12 +35,7 @@ display: block;
 margin: 7px 12px 0 0;
 float: left;
 }
-<<<<<<< HEAD
-.post .post-content { float: left; margin-left: 5px; }
-=======
-.post .post-content { float: left; margin-left: 5px;
- }
->>>>>>> exp
+.post .post-content { float: left; margin-top: 7px; margin-left: 5px; }
 .post .post-content h3 {
 margin: 0;
 line-height: 1.4;
@@ -60,6 +55,8 @@ color: #aaaaaa;
 display: block;
 float: right;
 margin-top: 7px;
+margin-bottom: 7px;
+margin-right: 5px;
 }
 .comments {
 list-style-type: none;
@@ -99,4 +96,10 @@ background: rgba(0, 0, 0, 0.1);
 .posts .spinner-container{
 position: relative;
 height: 100px;
+}
+.control-group{
+	margin-left: 10px;
+}
+.main{
+	padding: 5px 0 5px 0;
 }
