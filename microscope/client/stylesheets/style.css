@@ -103,3 +103,7 @@ height: 100px;
 .main{
 	padding: 5px 0 5px 0;
 }
+
+.control-group .controls .btn{
+	margin-bottom: 10px;
+}
